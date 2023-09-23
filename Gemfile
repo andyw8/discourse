@@ -281,3 +281,6 @@ gem "net-http"
 gem "cgi", ">= 0.3.6", require: false
 
 gem "tzinfo-data"
+
+gem "sorbet-static-and-runtime", "~> 0.5.11039"
+gem "tapioca", "~> 0.11.9"
